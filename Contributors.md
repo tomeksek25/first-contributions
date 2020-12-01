@@ -14,6 +14,7 @@
 - [Yeonsoo Kwon](https://github.com/yskwon38)
 - [Shaik Thasir Ahmed](https://github.com/thasir)
 - [Jericho De Guzman](https://github.com/Greywolvesss)
+- [Tomek Sęk](https://github.com/tomeksek25)
 - [TARUN](https://github.com/Tarun200999)
 - [Anil Kumar Kanasani](https://github.com/anilkumarKanasani)
 - [chetan dehane](https://github.com/ChetanDehane)
